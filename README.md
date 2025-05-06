@@ -43,6 +43,5 @@ Harnessing the power of your GPU for parallel operations can drastically speed u
 Have you ever considered using your GPU for complex computations? How does your test result look?
 🔗 Download the script and try it out!
 
-Here’s the link to download the script and give the test a try: [Link to project]
 
 #OpenCL #MSYS2 #GPGPU #Performance #Development #Tech #ParallelComputing #GPUvsCPU #Benchmark #Scripting
