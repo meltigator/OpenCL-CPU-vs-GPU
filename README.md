@@ -1,4 +1,4 @@
-# GPGPU Performance Test: CPU vs GPU with OpenCL and MSYS2 ⚙️
+# GPGPU Performance Test: CPU vs GPU with OpenCL and MSYS2 
 
 Are you looking to compare the computing power of your CPU against your GPU? Here’s a simple yet powerful test you can run using OpenCL and MSYS2 to compare the performance of both devices.
 
