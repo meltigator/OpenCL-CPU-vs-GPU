@@ -1,4 +1,4 @@
-# GPGPU Performance Test: CPU vs GPU with OpenCL and MSYS2 
+# ___GPGPU Performance Test: CPU vs GPU with OpenCL and MSYS2___ 
 
 Are you looking to compare the computing power of your CPU against your GPU? Here’s a simple yet powerful test you can run using OpenCL and MSYS2 to compare the performance of both devices.
 
@@ -40,9 +40,10 @@ Just run a bash script on MSYS2, choose whether to build, run, or clean up, and 
 
 Harnessing the power of your GPU for parallel operations can drastically speed up computations compared to traditional CPU processing, especially for tasks like machine learning, simulations, and 3D graphics. This test will give you an immediate sense of how your setup handles parallel tasks.
 
-- Share your results in the comments!
+### Share your results in the comments!
+
 Have you ever considered using your GPU for complex computations? How does your test result look?
-- Download the script and try it out!
+### Download the script and try it out!
 
 
 #OpenCL #MSYS2 #GPGPU #Performance #Development #Tech #ParallelComputing #GPUvsCPU #Benchmark #Scripting
